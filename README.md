@@ -9,11 +9,11 @@ know it is not the end, it's just the beginning.
 qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
 to solve problems, to follow instructions and documentation.
 
-
 # My Applications
-<details><summary>I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them.
-I deployed these applications through Heroku FREE plan it means apps sleep after 30 mins of inactivity.  
-It may take a few seconds to open since you click the link.</summary>
+
+<details><summary>I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. 
+I deployed these applications through Heroku FREE plan it means apps sleep after 30 mins of inactivity. 
+So, be aware - It may take a few seconds to open when you click the link.</summary>
 <p>
 <table>
   <thead align="center">
