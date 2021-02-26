@@ -23,9 +23,9 @@ to solve problems, to follow instructions and documentation.
   <tbody>
     <tr>
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
-      <td>Through this app you can browse and save random NASA's Astronomy Picture of the Day with explanation (called Space Fact). I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit image with explanation trough JDBCTemplate to an external MySql Database</td>
-      <td><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
-      <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
+      <td>Through this app you can browse and save random NASA's Astronomy Picture of the Day with explanation (called Space Fact). I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit space fact trough JDBCTemplate to an external MySql Database</td>
+      <td align="center"><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
+      <td align="center"><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>NotepadApp</b></a></td>
