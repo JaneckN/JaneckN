@@ -9,8 +9,10 @@ know it is not the end, it's just the beginning.
 qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
 to solve problems, to follow instructions and documentation.
 
-# My Application
 
+
+<details><summary><b>My Applications</b></summary>
+<p>
 <table>
   <thead align="center">
     <tr>
@@ -45,3 +47,4 @@ to solve problems, to follow instructions and documentation.
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
+</details>
