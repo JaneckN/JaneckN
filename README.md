@@ -18,7 +18,6 @@ to solve problems, to follow instructions and documentation.
     <tr>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Repo</b></td>
       <td><b>Live Demo</b></td>
     </tr>
   </thead>
@@ -26,24 +25,20 @@ to solve problems, to follow instructions and documentation.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit space fact trough JDBCTemplate to an external MySql Database</td>
-      <td><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
       <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
-      <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/"><b>NotepadApp</b></a></td>
+      <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
       <td> Description ...</td>
-      <td><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
       <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
-      <td><a href="https://cars-api-springboot-vue.herokuapp.com/"><b>Car CRUD App</b></a></td>
+      <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>Car CRUD App</b></a></td>
       <td> Description ...</td>
-      <td><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
       <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
     <tr align="center">
-      <td><a href="https://weatherapp-springboot-vue.herokuapp.com"><b>WeatherApp</b></a></td>
+      <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td> Description ...</td>
-      <td><a href="https://github.com/JaneckN/spaceapp/">:bookmark_tabs:</a></td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
