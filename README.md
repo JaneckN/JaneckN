@@ -3,6 +3,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaneckN&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-SpringBoot-6DB33F?style=plastic&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
@@ -58,7 +59,7 @@ Click on a project name to go to the repository.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
-    I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
+    I have learned how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
     space fact trough JDBCTemplate to an external MySql Database</td>
       <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
@@ -71,14 +72,14 @@ Click on a project name to go to the repository.
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
-      <td>This is a simple CRUD project, It was my first full-stack application, where I have to learn the basics of javascript and the Vue.js framework.
+      <td>This is a simple CRUD project, It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
         Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
     </td>
       <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
-    I have learned how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
+    I have learned a lot how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
