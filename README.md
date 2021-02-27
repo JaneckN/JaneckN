@@ -11,11 +11,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
 start my Software Engineering career. In May 2020, I have finished an intensive Java Bootcamp (360h, 9 months) and I
-know it is not the end, it's just the beginning.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified), I am highlighting these
-qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
-to solve problems, to follow instructions and documentation.
+know it is not the end, it's just the beginning. the biggest challenge was to find the balance between a full-time job and the study of software development.
+I'm learning programming by building my own projects - you can see them in the table below. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified) . I am highlighting these  qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
+to solve problems, to follow instructions and documentation.
+I want to build new skills and expand my knowledge further
 # Where to find me :telephone:
 
 <p align='center'>
@@ -30,9 +31,9 @@ to solve problems, to follow instructions and documentation.
 
 # My Applications :point_down:
 
-<details><summary>I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. 
+I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. 
 I deployed these applications through Heroku FREE plan it means apps sleep after 30 minutes of inactivity. 
-So, be aware - It may take a few seconds to open when you click the link. :eyes:</summary>
+So, be aware - It may take a few seconds to open when you click the link. :eyes:
 <p>
 <table>
   <thead align="center">
@@ -63,4 +64,3 @@ So, be aware - It may take a few seconds to open when you click the link. :eyes:
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
-</details>
