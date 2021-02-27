@@ -35,6 +35,10 @@ I want to build new skills and expand my knowledge further and switch my career 
 <a href="mailto:janeck@protonmail.com">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
+<a href="https://www.hackerrank.com/janeck">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+
 </p>
 
 # My Applications :eyes:
