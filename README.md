@@ -11,10 +11,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
 start my Software Engineering career. In May 2020, I have finished an intensive Java Bootcamp (360h, 9 months) and I
-know it is not the end, it's just the beginning. the biggest challenge was to find the balance between a full-time job and the study of software development.
-I'm learning programming by building my own projects - you can see them in the table below. 
+know it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job and the study of software development.
+I'm learning programming by building my own projects - you can find them in the table below. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified) . I am highlighting these  qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified). I am highlighting these qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
 to solve problems, to follow instructions and documentation.
 I want to build new skills and expand my knowledge further
 # Where to find me :telephone:
