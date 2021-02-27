@@ -7,6 +7,10 @@
 <br>
 <br>
 
+***
+
+# About Me.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
 start my Software Engineering career. In May 2020, I have finished an intensive Java Bootcamp (360h, 9 months) and I
 know it is not the end, it's just the beginning.  
