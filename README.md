@@ -1,6 +1,6 @@
 <h1 align='center'>
   Hi, Folks! I'm Jan :wave:<br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaneckN&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"><br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaneckN&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=trur"><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-SpringBoot-6DB33F?style=plastic&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white">
@@ -13,7 +13,7 @@
 # About Me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
-start my Software Engineering career. In May 2020, I have finished an intensive Java Bootcamp (360h, 9 months) and I
+start my Software Engineering career. In May 2020 I have finished an intensive Java Bootcamp (360h, 9 months) and I
 know it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job
 and the study of software development. I'm learning programming by building my own projects - you can find them in the
 table below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and be
