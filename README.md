@@ -81,9 +81,16 @@ Click on a project name to go to the repository.
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
     I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
+ <tr align="center">
+      <td><a href=""><b></b></a></td>
+        <td> to be continued... </td>
+      <td><a href=""></a></td>    </tr>
+
   </tbody>
+
 </table>
 <br>
 <p align='center'>
 <img src="https://badges.pufler.dev/visits/JaneckN/JaneckN">
 </p>
+
