@@ -67,7 +67,7 @@ Click on a project name to go to the repository.
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
       <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
         with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
-        and integration tests for this project. I still develop my testing skill.</td>
+        and integration tests for this project. I still develop my testing skills.</td>
       <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
@@ -79,7 +79,7 @@ Click on a project name to go to the repository.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
-    I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
+    I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
