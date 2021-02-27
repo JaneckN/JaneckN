@@ -9,21 +9,19 @@
 </h1>
 <br>
 
-
-
 # About Me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
 start my Software Engineering career. In May 2020, I have finished an intensive Java Bootcamp (360h, 9 months) and I
-know it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job 
-and the study of software development. I'm learning programming by building my own projects - you can find them in 
-the table below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and 
-be familiar with full-stack development.
+know it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job
+and the study of software development. I'm learning programming by building my own projects - you can find them in the
+table below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and be
+familiar with full-stack development.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently,
-I work as an electrician (fully qualified). I am highlighting these qualifications, because similar to a software developer, 
-an electrician needs to think analytically, solve problems, follow instructions and documentation. 
-I want to build new skills and expand my knowledge further and switch my career to IT.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified). I am highlighting these
+qualifications, because similar to a software developer, an electrician needs to think analytically, solve problems,
+follow instructions and documentation. I want to build new skills and expand my knowledge further and switch my career
+to IT.
 
 # Where to find me :earth_americas:
 
@@ -43,8 +41,8 @@ I want to build new skills and expand my knowledge further and switch my career 
 
 # My Applications :eyes:
 
-I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them.
-I deployed these applications through Heroku FREE plan it means apps sleep after 30 minutes of inactivity.
+I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. I deployed these applications
+through Heroku FREE plan it means apps sleep after 30 minutes of inactivity.
 <b>So be aware - It may take a few seconds to open when you hit the live demo link.</b>
 Click on a project name to go to the repository.
 <p>
@@ -69,12 +67,13 @@ Click on a project name to go to the repository.
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
-      <td> Description ...</td>
+      <td>This is a simple CRUD project, It was my first full-stack application, where I have to learn the basics of javascript and the Vue.js framework.
+        Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
+    </td>
       <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
-        <td>It was my first app, where I have to learn the basics of java scripts, and the Vue.js framework. In this App, You can
-    check current weather and forecast for selected cities. I use external weather API. 
+        <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
     I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
