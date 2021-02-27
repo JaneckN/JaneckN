@@ -25,7 +25,7 @@ I work as an electrician (fully qualified). I am highlighting these qualificatio
 an electrician needs to think analytically, solve problems, follow instructions and documentation. 
 I want to build new skills and expand my knowledge further and switch my career to IT.
 
-# Where to find me :telephone:
+# Where to find me :earth_americas:
 
 <p align='center'>
 
@@ -76,3 +76,7 @@ I deployed these applications through Heroku FREE plan it means apps sleep after
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
+<br>
+<p align='center'>
+<img src="https://badges.pufler.dev/visits/JaneckN/JaneckN">
+</p>
