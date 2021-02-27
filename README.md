@@ -40,7 +40,7 @@ to IT.
 
 </p>
 
-# My Applications :eyes:
+# My Projects :eyes:
 
 I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. I deployed these applications
 through Heroku FREE plan it means apps sleep after 30 minutes of inactivity.
@@ -60,19 +60,19 @@ Click on a project name to go to the repository.
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
     I have learnt how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
-    space fact trough JDBCTemplate to an external MySql Database</td>
+    space fact trough JDBCTemplate to an external MySql Database.</td>
       <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
       <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
         with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
-        and integration tests for this project - but I know it is still a lot to improve, I'm still learning testing.</td>
+        and integration tests for this project. I still develop my testing skill.</td>
       <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
-      <td>This is a simple CRUD project, It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
+      <td>This is a simple CRUD project. It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
         Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
     </td>
       <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
