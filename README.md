@@ -26,11 +26,11 @@ to solve problems, to follow instructions and documentation.
 
 </p>
 
-# My Applications
+# My Applications :point_down:
 
 <details><summary>I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. 
 I deployed these applications through Heroku FREE plan it means apps sleep after 30 minutes of inactivity. 
-So, be aware - It may take a few seconds to open when you click the link.</summary>
+So, be aware - It may take a few seconds to open when you click the link. :eyes:</summary>
 <p>
 <table>
   <thead align="center">
