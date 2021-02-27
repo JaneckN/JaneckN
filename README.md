@@ -57,12 +57,16 @@ Click on a project name to go to the repository.
   <tbody>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
-      <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit space fact trough JDBCTemplate to an external MySql Database</td>
+      <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
+    I learn how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
+    space fact trough JDBCTemplate to an external MySql Database</td>
       <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
-      <td> Description ...</td>
+      <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
+        with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
+        and integration test for this project - but I know it is still a lot to improve, I'm still learning testing.</td>
       <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
