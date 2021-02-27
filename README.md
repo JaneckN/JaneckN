@@ -74,7 +74,7 @@ I deployed these applications through Heroku FREE plan it means apps sleep after
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>It was my first app, where I have to learn the basics of java scripts, and the Vue.js framework. In this App, You can
     check current weather and forecast for selected cities. I use external weather API. 
-    I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field trough JsonNode</td>
+    I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
