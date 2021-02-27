@@ -14,7 +14,7 @@ know it is not the end, it's just the beginning.
 qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
 to solve problems, to follow instructions and documentation.
 
-# Where to find me
+# Where to find me :telephone:
 
 <p align='center'>
 
