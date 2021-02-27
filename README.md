@@ -78,7 +78,7 @@ Click on a project name to go to the repository.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
-    I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
+    I have learned how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
