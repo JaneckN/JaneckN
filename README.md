@@ -59,7 +59,7 @@ Click on a project name to go to the repository.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/spaceapp/"><b>SpaceApp</b></a></td>
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
-    I have learned how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
+    I have learnt how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
     space fact trough JDBCTemplate to an external MySql Database</td>
       <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
@@ -79,7 +79,7 @@ Click on a project name to go to the repository.
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
-    I have learned a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
+    I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
   </tbody>
 </table>
