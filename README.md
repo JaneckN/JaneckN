@@ -16,7 +16,7 @@ to solve problems, to follow instructions and documentation.
 <a href="https://www.linkedin.com/in/nowak-jan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="janeck@protonmail.com">
+<a href="mailto:janeck@protonmail.com">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 </p>
