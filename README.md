@@ -9,10 +9,22 @@ know it is not the end, it's just the beginning.
 qualifications, because similar to a software developer, an electrician needs to have the ability to think analytically,
 to solve problems, to follow instructions and documentation.
 
+# Where to find me
+
+<p align='center'>
+
+<a href="https://www.linkedin.com/in/nowak-jan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="janeck@protonmail.com">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+
+</p>
+
 # My Applications
 
 <details><summary>I've got 4 apps, for now, all of them are deployed on Heroku - feel free to try them. 
-I deployed these applications through Heroku FREE plan it means apps sleep after 30 mins of inactivity. 
+I deployed these applications through Heroku FREE plan it means apps sleep after 30 minutes of inactivity. 
 So, be aware - It may take a few seconds to open when you click the link.</summary>
 <p>
 <table>
@@ -35,7 +47,7 @@ So, be aware - It may take a few seconds to open when you click the link.</summa
       <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>Car CRUD App</b></a></td>
+      <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
       <td> Description ...</td>
       <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
     <tr align="center">
