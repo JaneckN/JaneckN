@@ -28,9 +28,6 @@ to IT.
 
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/nowak-jan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="mailto:janeck@protonmail.com">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
