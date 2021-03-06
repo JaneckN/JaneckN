@@ -75,7 +75,7 @@ Click on a project name to go to the repository.
       <td>This is a simple CRUD project. It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
         Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
     </td>
-      <td><a href="https://cars-api-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
+      <td><a href="https://carsapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
