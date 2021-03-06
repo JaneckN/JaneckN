@@ -68,7 +68,7 @@ Click on a project name to go to the repository.
       <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
         with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
         and integration tests for this project. I still develop my testing skills.</td>
-      <td><a href="https://notepadapp-springboot-vuejs.herokuapp.com/">:arrow_forward:</a></td>
+      <td><a href="https://notepadapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
