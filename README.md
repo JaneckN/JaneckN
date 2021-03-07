@@ -13,11 +13,11 @@
 # About Me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
-start my Software Engineering career. In May 2020 I have finished an intensive Java Bootcamp (360h, 9 months) and I
-know it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job
-and the study of software development. I'm learning programming by building my own projects - you can find them in the
-table below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and be
-familiar with full-stack development.
+start my Software Engineering career. In May 2020 I have finished an intensive Java Bootcamp (360h, 9 months) and I know
+it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job and
+the study of software development. I'm learning programming by building my own projects - you can find them in the table
+below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and be familiar
+with full-stack development.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I work as an electrician (fully qualified). I am highlighting these
 qualifications, because similar to a software developer, an electrician needs to think analytically, solve problems,
@@ -75,7 +75,7 @@ Click on a project name to go to the repository.
       <td>This is a simple CRUD project. It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
         Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
     </td>
-      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">></td>    </tr>
+      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">:arrow_forward:</a></td>    </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
