@@ -61,26 +61,26 @@ Click on a project name to go to the repository.
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
     I have learnt how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
     space fact trough JDBCTemplate to an external MySql Database.</td>
-      <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
+      <td><a href="https://github.com/JaneckN/Demos.md">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
       <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
         with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
         and integration tests for this project. I still develop my testing skills.</td>
-      <td><a href="https://notepadapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>
+      <td><a href="https://github.com/JaneckN/Demos.md">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
       <td>This is a simple CRUD project. It was my first full-stack application, where I had to learn  the basics of javascript and the Vue.js framework.
         Backend build in spring-boot is connected to the remote MySQL database through JDBCTemplate.  
     </td>
-      <td><a href="https://carsapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
+      <td><a href="https://github.com/JaneckN/Demos.md">:arrow_forward:</a></td>    </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/weatherapp"><b>WeatherApp</b></a></td>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
     I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
-      <td><a href="https://weatherapp-springboot-vue.herokuapp.com">:arrow_forward:</a></td>    </tr>
+      <td><a href="https://github.com/JaneckN/Demos.md">:arrow_forward:</a></td>    </tr>
  <tr align="center">
       <td><a href=""><b></b></a></td>
         <td> to be continued... </td>
