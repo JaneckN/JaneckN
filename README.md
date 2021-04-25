@@ -45,7 +45,7 @@ to IT.
 I've got 4 apps, for now, all of them are deployed on Heroku. I deployed these applications through Heroku FREE plan it
 means apps sleep after 30 minutes of inactivity.
 <b>So be aware - It may take a few seconds to open when you hit the live demo link.</b>
-Click on a project name to go to the repository.
+Click on a project name to go to the repository.</br>
 I’m currently working on my new app called "EV Mate" ( description below).
 
 <p>
