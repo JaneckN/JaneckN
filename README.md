@@ -61,7 +61,7 @@ Click on a project name to go to the repository.
       <td>Through this app you can browse random NASA's Astronomy Picture of the Day with explanation (called Space Fact). 
     I have learnt how to fetch and manipulate data from an external API (I used RestTemplate). User can save, remove and edit 
     space fact trough JDBCTemplate to an external MySql Database.</td>
-      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">:arrow_forward:</a></td>
+      <td><a href="https://spaceapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
