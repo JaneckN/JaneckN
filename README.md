@@ -13,9 +13,9 @@
 # About Me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an Entry-level Java Developer and I'm looking for an opportunity to kick
-start my Software Engineering career. In May 2020 I  finished an intensive Java Bootcamp (360h, 9 months) and I know
-it is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job and
-the study of software development. I'm learning programming by building my own projects - you can find them in the table
+start my Software Engineering career. In May 2020 I finished an intensive Java Bootcamp (360h, 9 months) and I know it
+is not the end, it's just the beginning. The biggest challenge was to find the balance between a full-time job and the
+study of software development. I'm learning programming by building my own projects - you can find them in the table
 below. My goal is to become a backend developer, but I also develop my front-end skills to show my work and be familiar
 with full-stack development.
 
@@ -42,8 +42,8 @@ to IT.
 
 # My Projects :eyes:
 
-I've got 4 apps, for now, all of them are deployed on Heroku. I deployed these applications
-through Heroku FREE plan it means apps sleep after 30 minutes of inactivity.
+I've got 4 apps, for now, all of them are deployed on Heroku. I deployed these applications through Heroku FREE plan it
+means apps sleep after 30 minutes of inactivity.
 <b>So be aware - It may take a few seconds to open when you hit the live demo link.</b>
 Click on a project name to go to the repository.
 <p>
@@ -67,8 +67,8 @@ Click on a project name to go to the repository.
       <td><a href="https://github.com/JaneckN/NotepadApp"><b>NotepadApp</b></a></td>
       <td> NotepadApp is another CRUD application, where You can add, edit and remove notes. Spring-Boot and Hibernate 
         with remote MySQL database on the backend, and Vue.js and bootstrap on the frontend. I start to write unit 
-        and integration tests for this project. I still develop my testing skills.</td>
-      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">:arrow_forward:</a></td>
+        and integration tests for this project. I still develop my testing skills. </td>
+      <td><a href="https://notepadapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/JaneckN/cars-api-springboot-vue"><b>CarApp</b></a></td>
@@ -81,6 +81,12 @@ Click on a project name to go to the repository.
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
     I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
       <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">:arrow_forward:</a></td>    </tr>
+ <tr align="center">
+      <td><a href=""><b>EV Mate</b></a></td>
+        <td> It is an application for Electric vehicle users. The first feature will be an option where you can check the range of your EV car,
+and display it on the map.  In the next stage, you will be available to plan your route and check are there any EV charging points. 
+So... Bear with me, the first features of this app should be ready in May 2021. </td>
+      <td><a href="">:arrow_forward:</a></td></tr>
  <tr align="center">
       <td><a href=""><b></b></a></td>
         <td> to be continued... </td>
