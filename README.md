@@ -46,6 +46,7 @@ to IT.
 means apps sleep after 30 minutes of inactivity.
 <b>So be aware - It may take a few seconds to open when you hit the live demo link.</b>
 Click on a project name to go to the repository.</br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working on my new app called "EV Mate" ( description below).
 
 <p>
