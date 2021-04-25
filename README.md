@@ -82,7 +82,7 @@ Click on a project name to go to the repository.
     I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
       <td><a href="https://github.com/JaneckN/JaneckN/blob/master/Demos.md">:arrow_forward:</a></td>    </tr>
  <tr align="center">
-      <td><a href=""><b>EV Mate</b></a></td>
+      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/evmatelogo.md"><b>EV Mate</b></a></td>
         <td> This is what I'm working for now. It is an application for Electric vehicle users. The first feature will be an option where you can check the range of your EV car,
 and display it on the map.  In the next stage, you will be available to plan your route and check are there any EV charging points. 
 So... Bear with me, the first features of this app should be ready in May 2021. </td>
