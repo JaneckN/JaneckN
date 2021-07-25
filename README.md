@@ -49,7 +49,7 @@ Click on a project name to go to the repository.</br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working on my new app called "EV Mate" (description below).
 
-<p>
+
 <table>
   <thead align="center">
     <tr>
@@ -84,12 +84,6 @@ Click on a project name to go to the repository.</br>
         <td>In this App, You can check current weather and forecast for selected cities. I use external weather API. 
     I have learnt a lot about how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode.</td>
       <td><a href="https://weatherapp-springboot-vue.herokuapp.com/">:arrow_forward:</a></td>    </tr>
- <tr align="center">
-      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/evmatelogo.md"><b>EV Mate</b></a></td>
-        <td> This is what I'm working for now. It is an application for Electric vehicle users. The first feature will be an option where you can check the range of your EV car,
-and display it on the map.  In the next stage, you will be available to plan your route and check are there any EV charging points. 
-So... Bear with me, the first features of this app should be ready in May 2021. </td>
-      <td><a href="https://github.com/JaneckN/JaneckN/blob/master/evmatelogo.md">:arrow_forward:</a></td></tr>
  <tr align="center">
       <td><a href=""><b></b></a></td>
         <td> to be continued... </td>
