@@ -46,7 +46,7 @@ to IT.
 means apps sleep after 30 minutes of inactivity.
 <b>So be aware - It may take a few seconds to open when you hit the live demo link.</b>
 Click on a project name to go to the repository.</br>
-Also, feel free to drop me an email to get my CV or the password and username for my live demos apps.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, feel free to drop me an email to get my CV or the password and username for my live demos apps.
 
 
 
